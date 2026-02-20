@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+    background-color: #dbeafe;
+}
+
+.header {
+    background-color: #008080;
+    color: white;
+    padding: 10px;
+}
+
+.main {
+    padding: 30px;
+}
+
+
+
+.interessi {
+    background-color: #dcfce7;
+}
+ footer {
+            background-color: #eee;
+            padding: 20px;
+        }
